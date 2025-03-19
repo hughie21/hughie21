@@ -1,5 +1,5 @@
 ## Hi there 👋
-<p>
+<p style="font-size:1.2em;">
 I'm Hughie, a developer from China. I'm interested in web development, machine learning and computer vision. I'm also a fan of guitar🎸 and music🎵.
 </p>
 <hr>
@@ -13,10 +13,3 @@ I'm Hughie, a developer from China. I'm interested in web development, machine l
 
 ## My practice
 [![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=hughie21)]
-
-<style>
-.text{
-    font-size: 1.5em;
-    color: #fff;
-}
-</style>
