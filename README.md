@@ -12,4 +12,4 @@ I'm Hughie, a developer from China. I'm interested in web development, machine l
 - [Customs Crawler](https://github.com/hughie21/customs-crawler) - A customs crawler.
 
 ## My practice
-[![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=hughie21)]
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=hughie21)
